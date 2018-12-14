@@ -244,7 +244,7 @@ selectRoute = () => {
   return(
     <div>
     <h2>Wähle nun deine Route:</h2>
-    <button className="route" id="buttonbern" onClick={() => { this.toRoute('#/bern', 0) }}>Berna</button>
+    <button className="route" id="buttonbern" onClick={() => { this.toRoute('bern', 0) }}>Berna</button>
     <button className="route" id="buttonriggisberg" onClick={() => { this.toRoute('riggisberg', 0) }}>Riggisbern</button>
     <button className="route" id="buttonlangenthal" onClick={() => { this.toRoute('langenthal', 0) }}>Langenthal</button>
     <button className="route" id="buttonspiez" onClick={() => { this.toRoute('spiez', 0) }}>Spiez</button>
@@ -256,7 +256,7 @@ selectRoute = () => {
 
 //------------------------------------------------
 toRoute = (route, punkt) =>{
-  this.props.history.push(`/#/routes/${route}/${punkt}/`)
+  this.props.history.push(`/routes/${route}/${punkt}/`)
 }
 toLastRoute = () => {
   const lastRoute = localStorage.getItem('lastRoute')
