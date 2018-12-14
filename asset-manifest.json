@@ -1,7 +1,7 @@
 {
   "main.css": "/bzschatzsuche/static/css/main.20f00c83.chunk.css",
-  "main.js": "/bzschatzsuche/static/js/main.c257cf33.chunk.js",
-  "main.js.map": "/bzschatzsuche/static/js/main.c257cf33.chunk.js.map",
+  "main.js": "/bzschatzsuche/static/js/main.e31cab17.chunk.js",
+  "main.js.map": "/bzschatzsuche/static/js/main.e31cab17.chunk.js.map",
   "static/js/1.de0b5896.chunk.js": "/bzschatzsuche/static/js/1.de0b5896.chunk.js",
   "static/js/1.de0b5896.chunk.js.map": "/bzschatzsuche/static/js/1.de0b5896.chunk.js.map",
   "runtime~main.js": "/bzschatzsuche/static/js/runtime~main.eeaa27f0.js",
@@ -41,6 +41,6 @@
   "static/media/baum.png": "/bzschatzsuche/static/media/baum.fcdd2661.png",
   "static/css/main.20f00c83.chunk.css.map": "/bzschatzsuche/static/css/main.20f00c83.chunk.css.map",
   "index.html": "/bzschatzsuche/index.html",
-  "precache-manifest.c19633b1a5f535073443e29d4f0dc233.js": "/bzschatzsuche/precache-manifest.c19633b1a5f535073443e29d4f0dc233.js",
+  "precache-manifest.0cb6a47a6ca7de10d8a9abc81709e740.js": "/bzschatzsuche/precache-manifest.0cb6a47a6ca7de10d8a9abc81709e740.js",
   "service-worker.js": "/bzschatzsuche/service-worker.js"
 }
