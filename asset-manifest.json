@@ -1,7 +1,7 @@
 {
   "main.css": "/bzschatzsuche/static/css/main.d81ad3a8.chunk.css",
-  "main.js": "/bzschatzsuche/static/js/main.e7cb32ba.chunk.js",
-  "main.js.map": "/bzschatzsuche/static/js/main.e7cb32ba.chunk.js.map",
+  "main.js": "/bzschatzsuche/static/js/main.c9e96c9b.chunk.js",
+  "main.js.map": "/bzschatzsuche/static/js/main.c9e96c9b.chunk.js.map",
   "static/js/1.3e3e727e.chunk.js": "/bzschatzsuche/static/js/1.3e3e727e.chunk.js",
   "static/js/1.3e3e727e.chunk.js.map": "/bzschatzsuche/static/js/1.3e3e727e.chunk.js.map",
   "runtime~main.js": "/bzschatzsuche/static/js/runtime~main.eeaa27f0.js",
@@ -34,12 +34,12 @@
   "static/media/karte_b.svg": "/bzschatzsuche/static/media/karte_b.ac676608.svg",
   "static/media/hakengruen.svg": "/bzschatzsuche/static/media/hakengruen.1eae509f.svg",
   "static/media/hakenrot.svg": "/bzschatzsuche/static/media/hakenrot.36fa232b.svg",
-  "static/media/pfeil-links.svg": "/bzschatzsuche/static/media/pfeil-links.f2943358.svg",
-  "static/media/pfeil-rechts.svg": "/bzschatzsuche/static/media/pfeil-rechts.cc508ff4.svg",
+  "static/media/pfeil-links.svg": "/bzschatzsuche/static/media/pfeil-links.95364ebe.svg",
+  "static/media/pfeil-rechts.svg": "/bzschatzsuche/static/media/pfeil-rechts.4dbd48cf.svg",
   "static/media/lotta.png": "/bzschatzsuche/static/media/lotta.a5cbadf4.png",
   "static/media/index.css": "/bzschatzsuche/static/media/kuh.48bac6dc.jpg",
   "static/css/main.d81ad3a8.chunk.css.map": "/bzschatzsuche/static/css/main.d81ad3a8.chunk.css.map",
   "index.html": "/bzschatzsuche/index.html",
-  "precache-manifest.d2cd00ba21e6a08ffe2e455afad8b3dd.js": "/bzschatzsuche/precache-manifest.d2cd00ba21e6a08ffe2e455afad8b3dd.js",
+  "precache-manifest.7ffe5132980359701ea6ac6608a72427.js": "/bzschatzsuche/precache-manifest.7ffe5132980359701ea6ac6608a72427.js",
   "service-worker.js": "/bzschatzsuche/service-worker.js"
 }

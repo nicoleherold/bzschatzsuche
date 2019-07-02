@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/bzschatzsuche/static/media/9.dd962aa4.png"
   },
   {
-    "revision": "e7cb32ba2c533fbd842a",
+    "revision": "c9e96c9b0251f904f872",
     "url": "/bzschatzsuche/static/css/main.d81ad3a8.chunk.css"
   },
   {
@@ -224,8 +224,8 @@ self.__precacheManifest = [
     "url": "/bzschatzsuche/static/media/8.2c08543f.png"
   },
   {
-    "revision": "e7cb32ba2c533fbd842a",
-    "url": "/bzschatzsuche/static/js/main.e7cb32ba.chunk.js"
+    "revision": "c9e96c9b0251f904f872",
+    "url": "/bzschatzsuche/static/js/main.c9e96c9b.chunk.js"
   },
   {
     "revision": "621daab1e664ed4a3465a948eb26c32b",
@@ -420,12 +420,12 @@ self.__precacheManifest = [
     "url": "/bzschatzsuche/static/media/hakenrot.36fa232b.svg"
   },
   {
-    "revision": "f2943358e2cb3b4960516accd4b7c4f7",
-    "url": "/bzschatzsuche/static/media/pfeil-links.f2943358.svg"
+    "revision": "95364ebea42c1de190c8fc8e5a91843b",
+    "url": "/bzschatzsuche/static/media/pfeil-links.95364ebe.svg"
   },
   {
-    "revision": "cc508ff46d178e807cc96052b6887ffe",
-    "url": "/bzschatzsuche/static/media/pfeil-rechts.cc508ff4.svg"
+    "revision": "4dbd48cf422f705d1f6e2c81c4852bd0",
+    "url": "/bzschatzsuche/static/media/pfeil-rechts.4dbd48cf.svg"
   },
   {
     "revision": "a5cbadf471d82353456bbc3bea7323c8",
@@ -444,7 +444,7 @@ self.__precacheManifest = [
     "url": "/bzschatzsuche/static/media/kuh.48bac6dc.jpg"
   },
   {
-    "revision": "012ef12c4fe8b70bb83b50a4043ba1a3",
+    "revision": "f0acd3e558ff0651321ceaf35584fc86",
     "url": "/bzschatzsuche/index.html"
   }
 ];
