@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bzschatzsuche/precache-manifest.38bf16ab1756834f84f4e30bbfb32248.js"
+  "/bzschatzsuche/precache-manifest.d2cd00ba21e6a08ffe2e455afad8b3dd.js"
 );
 
 workbox.clientsClaim();
