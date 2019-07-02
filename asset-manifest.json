@@ -1,7 +1,7 @@
 {
   "main.css": "/bzschatzsuche/static/css/main.d81ad3a8.chunk.css",
-  "main.js": "/bzschatzsuche/static/js/main.0ac3a5a9.chunk.js",
-  "main.js.map": "/bzschatzsuche/static/js/main.0ac3a5a9.chunk.js.map",
+  "main.js": "/bzschatzsuche/static/js/main.ef80f4a2.chunk.js",
+  "main.js.map": "/bzschatzsuche/static/js/main.ef80f4a2.chunk.js.map",
   "static/js/1.3e3e727e.chunk.js": "/bzschatzsuche/static/js/1.3e3e727e.chunk.js",
   "static/js/1.3e3e727e.chunk.js.map": "/bzschatzsuche/static/js/1.3e3e727e.chunk.js.map",
   "runtime~main.js": "/bzschatzsuche/static/js/runtime~main.eeaa27f0.js",
@@ -40,6 +40,6 @@
   "static/media/index.css": "/bzschatzsuche/static/media/kuh.48bac6dc.jpg",
   "static/css/main.d81ad3a8.chunk.css.map": "/bzschatzsuche/static/css/main.d81ad3a8.chunk.css.map",
   "index.html": "/bzschatzsuche/index.html",
-  "precache-manifest.e46a0a25427c9612e40813c7cb2e443c.js": "/bzschatzsuche/precache-manifest.e46a0a25427c9612e40813c7cb2e443c.js",
+  "precache-manifest.659bfe9c7adce1ca5879f6aeb89e42b5.js": "/bzschatzsuche/precache-manifest.659bfe9c7adce1ca5879f6aeb89e42b5.js",
   "service-worker.js": "/bzschatzsuche/service-worker.js"
 }
